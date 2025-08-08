@@ -33,7 +33,7 @@ function LoginPage() {
             })
             .catch((error) => {
 				setLoading2(false);
-                setMessage(error || 'Giriş başarısız. Lütfen tekrar deneyin.');
+                setMessage(error || 'Giriş başarısız24343345. Lütfen tekrar deneyin.');
             });
     };
 	
